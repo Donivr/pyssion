@@ -1,6 +1,8 @@
 Py-Index
 
 Class1 - 
+task given for class1 -
 Class2 - 
+task given for class2 -
 Class3 -
 Class4 -
